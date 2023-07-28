@@ -1,0 +1,12 @@
+{
+  "name": "multi-route-planner",
+  "version": "0.0.0",
+  "description": "What's my closest destination",
+  "main": "app.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "EVEoj": "^0.3.1",
+    "express": "^4.18.2",
+    "minimist-lite": "^2.2.1"
+  }
+}
