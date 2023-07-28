@@ -13,6 +13,7 @@ Give it a starting system and a comma separated list of systems you may want to 
 ```
 
 Supports `preferHighSec` and `preferLowSec` options
+
 `/api/v1/route?start=Jita&end=Amarr,Dodixie,Friggi&preferHighSec=true`:
 
 ```
